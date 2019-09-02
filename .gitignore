@@ -3,7 +3,8 @@
 
 #PyCharm directories
 /trafficprediction/.idea
-/trafficprediction/_pycache_
+/trafficprediction/__pycache__
+/trafficprediction/Data
 /trafficprediction/venv
 
 #Unnecessary files
