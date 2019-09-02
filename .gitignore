@@ -1,0 +1,26 @@
+#Hello World directory
+/hello
+
+#PyCharm directories
+/trafficprediction/.idea
+/trafficprediction/_pycache_
+/trafficprediction/venv
+
+#Unnecessary files
+/Paper/*.aux
+/Paper/*.bbl
+/Paper/*.blg
+/Paper/*.dvi
+/Paper/*.txt
+/Paper/*.synctex
+/Paper/*.xlsx
+/Paper/*.docx
+/Paper/averagePowerChange*
+/Paper/deltaPvariation*
+/Paper/executionTime*
+/Paper/rectangleExample*
+/Paper/slopeVariation*
+/Paper/project*
+/Paper/power*
+/Paper/drawing.svg
+/Paper/netPowerChange.eps
