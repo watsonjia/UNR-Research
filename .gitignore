@@ -12,7 +12,7 @@
 /Paper/*.blg
 /Paper/*.dvi
 /Paper/*.txt
-/Paper/*.synctex
+/Paper/*.gz
 /Paper/*.xlsx
 /Paper/*.docx
 /Paper/averagePowerChange*
